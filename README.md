@@ -37,7 +37,7 @@ The platform uses a RIASEC-based psychological assessment and a Machine Learning
 
 ### Home Page
 
-![Home](screenshots/Home_Page.png)
+![Home](Home page.jpeg)
 
 ---
 
