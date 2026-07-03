@@ -37,19 +37,24 @@ The platform uses a RIASEC-based psychological assessment and a Machine Learning
 
 ### Home Page
 
-![Home](Home page.jpeg)
+![Home](Home%20page.jpeg)
 
 ---
 
 ### RIASEC Assessment
 
-![Quiz](screenshots/RIASEC_Quiz_Page.png)
+![Quiz](quizz.jpeg)
 
 ---
 
-### Recommendation Result
+### Recommendation Page
 
-![Result](screenshots/Recommendation_Result.png)
+![Result](recommendations.jpeg)
+
+---
+
+### Result Page
+![Result](result.jpeg)
 
 ---
 
@@ -57,7 +62,7 @@ The platform uses a RIASEC-based psychological assessment and a Machine Learning
 
 The project is currently deployed at:
 
-**Website:** https://your-website-link.com
+**Website:** https://lnkd.in/gNzxHhdY
 
 ---
 
